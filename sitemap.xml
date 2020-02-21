@@ -1,17 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>https://alanneyton.github.io/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alanneyton.github.io/tags/anabolics-shots/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://alanneyton.github.io/post/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alanneyton.github.io/tags/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alanneyton.github.io/2020/02/t-hormone-tren-mix/</loc>
+    <lastmod>2020-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://alanneyton.github.io/tags/anabolics-pills/</loc>
     <lastmod>2019-11-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://alanneyton.github.io/tags/stan/</loc>
+    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -20,43 +43,18 @@
   </url>
   
   <url>
-    <loc>https://alanneyton.github.io/tags/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alanneyton.github.io/tags/anabolics-pills/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://alanneyton.github.io/tags/stan/</loc>
-    <lastmod>2019-11-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://alanneyton.github.io/2019/07/roid-injects/</loc>
     <lastmod>2019-07-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alanneyton.github.io/tags/anabolics-shots/</loc>
-    <lastmod>2019-07-30T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://alanneyton.github.io/tags/post-recovery/</loc>
+    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://alanneyton.github.io/2019/07/aas-recovery/</loc>
     <lastmod>2019-07-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://alanneyton.github.io/tags/post-recovery/</loc>
-    <lastmod>2019-07-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -67,7 +65,6 @@
   <url>
     <loc>https://alanneyton.github.io/tags/supplementary-medicine/</loc>
     <lastmod>2019-07-21T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -76,19 +73,17 @@
   </url>
   
   <url>
+    <loc>https://alanneyton.github.io/tags/aas-products/</loc>
+    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://alanneyton.github.io/2019/07/aas/</loc>
     <lastmod>2019-07-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://alanneyton.github.io/tags/aas-products/</loc>
-    <lastmod>2019-07-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://alanneyton.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>
